@@ -1,0 +1,17 @@
+{
+  "name": "greeting-ai",
+  "version": "1.0.0",
+  "description": "AI that detects greetings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
